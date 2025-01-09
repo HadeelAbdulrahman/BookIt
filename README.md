@@ -24,7 +24,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone git clone [https://github.com/HadeelAbdulrahman/BookIt.git]
    ```
 
 2. Set up XAMPP:
